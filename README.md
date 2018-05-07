@@ -2,7 +2,7 @@
 
 # Project Summary
 
-Todd Was here
+
 
 In this project, we'll provide practice JavaScript problems to help you better understand the fundamentals.
 
